@@ -20,6 +20,7 @@ body{
     font-family: "Poppins", sans-serif;
     color: #fff;
     font-size: 4.5em;
+    text-shadow: 2px 2px 5px black;
 }
 .banner-area h2 span{
     color: red;
