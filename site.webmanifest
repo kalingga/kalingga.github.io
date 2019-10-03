@@ -4,9 +4,9 @@
     "display": "standalone",
     "icons": [
         {
-            "src": "icon.png",
+            "src": "footer.png",
             "type": "image/png",
-            "sizes": "192x192"
+            "sizes": "150x150"
         }
     ],
     "start_url": "/?utm_source=homescreen",
