@@ -1,0 +1,15 @@
+{
+    "short_name": "Kalingga",
+    "name": "Kalingga Dev",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "icon.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        }
+    ],
+    "start_url": "/?utm_source=homescreen",
+    "background_color": "#008080",
+    "theme_color": "#008080"
+}
